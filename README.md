@@ -23,7 +23,7 @@ This part is about modelling several elements in order to create a 3D environmen
 
 #### Details about the event:
 Date: July 17th - July 23rd\
-Time: Opens 12:00AM July 17th, submissions will be accepted until 11:59PM July 23rd\
+Time: Opens 12:00 AM July 17th, submissions will be accepted until 11:59 PM July 23rd\
 Software: Blender (or any other 3D software of your choice)
 
 
@@ -37,7 +37,8 @@ Software: Blender (or any other 3D software of your choice)
 You can find some asset and scene examples in the repo folder.
 
 #### 2. Submission: 
-TBD
+Please fork this repo and include all submission files. Only forked repos will be evaluated.\
+Submissions will be accepted until 11:59 PM on July 23rd.
 
 #### 3. Evaluation Grid: 
 | Criteria               | Part 1 Ratings | Part 2 Ratings |
