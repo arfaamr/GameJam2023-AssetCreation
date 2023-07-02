@@ -1,5 +1,11 @@
 # GameJam2023-AssetCreation
 
+#### Details about the event:
+Date: July 17th - July 23rd\
+Time: Opens 12:00 AM July 17th, submissions will be accepted until 11:59 PM July 23rd\
+Software: Blender (or any other 3D software of your choice)
+
+
 #### 1. Definition: 
 Asset creation is about creating 3D elements with Blender (or any other software of your choice!) and will be divided into 2 parts:
 
@@ -21,11 +27,11 @@ Some examples include: The Java Lounge, outside Erie Hall Etc.
 This part is about modelling several elements in order to create a 3D environment. It should contain: One surface (not exceeding 10x10x10, and 2-4 other ornamental elements (although you can add more!).
 
 
-#### Details about the event:
-Date: July 17th - July 23rd\
-Time: Opens 12:00 AM July 17th, submissions will be accepted until 11:59 PM July 23rd\
-Software: Blender (or any other 3D software of your choice)
+You can find some asset and scene examples in the repo folder.
 
+#### 2. Submission: 
+Please fork this repo and include all submission files. Only forked repos will be evaluated.\
+Submissions will be accepted until 11:59 PM on July 23rd.
 
 #### Submission elements:
    - One file per asset for part 1, to be named part1_assetX (replace X with 1, 2, 3, etc for any assets)
@@ -33,12 +39,6 @@ Software: Blender (or any other 3D software of your choice)
    - One document (.pdf) briefly explaining the ideas behind your asset and scenes
    - Please include a picture of your assets/scenes in the .pdf file along with your explanations (indicating which asset\scene files go with each picture)
 
-
-You can find some asset and scene examples in the repo folder.
-
-#### 2. Submission: 
-Please fork this repo and include all submission files. Only forked repos will be evaluated.\
-Submissions will be accepted until 11:59 PM on July 23rd.
 
 #### 3. Evaluation Grid: 
 | Criteria               | Part 1 Ratings | Part 2 Ratings |
