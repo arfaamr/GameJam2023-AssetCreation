@@ -54,10 +54,10 @@ TBD
 #### 4. Criteria:
 | Criteria         | Explanation                                                                                                |
 |------------------|------------------------------------------------------------------------------------------------------------|
-| Modeling         | Base process of asset creation including modelling, sculpting and UV mapping                                |
-| Texturing        | Includes sculpting and painting                                                                            |
-| Light Management | Includes shading, light source management and dispositions                                                 |
-| Animating        | Includes rigging, framing and physics simulation                                                           |
+| Modeling         | Base process of asset creation including modelling, sculpting and UV mapping.                                |
+| Texturing        | Includes sculpting and painting.                                                                            |
+| Light Management | Includes shading, light source management and dispositions.                                                 |
+| Animating        | Includes rigging, framing and physics simulation.                                                           |
 | Level of Details | Includes attention to detail and is based on different tasks that are completed, as well as documentation. |
 | Design Idea      | Includes your design idea of what you created and how you got there as written in documentation.           |
 | Bonus            | Bonus points for anything you've created that stands out to us!                                            |
